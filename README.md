@@ -10,10 +10,6 @@ FindIntegrity
 
 -----------------
 
-Check the company's integrity level in the company. Asymmetries eliminate information in the pharmaceutical industry.
-
-
-
 #  FindIntegrity
 
 
