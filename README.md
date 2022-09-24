@@ -1,17 +1,14 @@
 # FindIntegrity
 FindIntegrity
 
-
 <p align="center">
-   <a href="https://github.com/TomazAlexandre/x">
-     <img src="logon.PNG" alt="namexxx" title="Logon time" width="600px">
-   </a>
+  <img width="460" height="300" src="https://raw.githubusercontent.com/TomazAlexandre/UNODCHack/main/hackunodc/web/oki.png">
 </p>
 
 -----------------
 
 #  FindIntegrity
-
+Check the company's integrity level in the company. Asymmetries eliminate information in the pharmaceutical industry.
 
 ## Authors
 
